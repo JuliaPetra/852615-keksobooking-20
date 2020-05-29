@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Джулия Петроградская](https://up.htmlacademy.ru/javascript/20/user/852615).
-* Наставник: [Екатерина Кащенко](https://htmlacademy.ru/profile/id109008).
+* Наставник: [Катя Кащенко](https://htmlacademy.ru/profile/id109008).
 
 ---
 
